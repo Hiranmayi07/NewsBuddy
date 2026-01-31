@@ -22,3 +22,12 @@ NewsBuddy is a web-based application that provides daily news updates along with
 ---
 
 ## 📂 Project Structure
+
+---
+
+## ⚙️ How to Run Locally
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/Hiranmayi07/NewsBuddy.git
+cd NewsBuddy
